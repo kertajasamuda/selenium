@@ -1,0 +1,10 @@
+python satu.py >/dev/null & sleep 0.5
+python dua.py >/dev/null & sleep 0.5
+python tiga.py >/dev/null & sleep 0.5
+python empat.py >/dev/null & sleep 0.5
+python lima.py >/dev/null & sleep 0.5
+python enam.py >/dev/null & sleep 0.5
+python tujuh.py >/dev/null & sleep 0.5
+python delapan.py >/dev/null & sleep 0.5
+python sembilan.py >/dev/null & sleep 0.5
+python sepuluh.py >/dev/null & sleep 0.5
